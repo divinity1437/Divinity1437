@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://okayu.me](https://okayu.me)
 
-- 📫 How to reach me **owouser@melanholy.top**
+- 📫 How to reach me **i@okayu.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
