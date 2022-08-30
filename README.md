@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python, php, js**
 
-- 👨‍💻 All of my projects are available at [https://osiri.us](https://osiri.us)
+- 👨‍💻 All of my projects are available at [https://okayu.me](https://okayu.me)
 
 - 📫 How to reach me **owouser@melanholy.top**
 
