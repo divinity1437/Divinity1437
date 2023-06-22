@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **python, php, js**
 
+- 🤑 You can support me via boosty - https://boosty.to/owouser
+
 - 👨‍💻 All of my projects are available at [https://okayu.me](https://okayu.me)
 
 - 📫 How to reach me **i@okayu.me**
